@@ -4,7 +4,7 @@
 <svg
    id="svg2"
    version="1.1"
-   inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xml:space="preserve"
    width="744.09998"
    height="1052.3625"
@@ -20,7 +20,7 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/"><metadata
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
      id="defs6"><linearGradient
        inkscape:collect="always"
        id="linearGradient5230"><stop
@@ -441,15 +441,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1848"
-     inkscape:window-height="1016"
+     inkscape:window-width="1870"
+     inkscape:window-height="1015"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="1.4142137"
-     inkscape:cx="332.69371"
-     inkscape:cy="44.547723"
-     inkscape:window-x="72"
-     inkscape:window-y="27"
+     inkscape:zoom="2.0000002"
+     inkscape:cx="354.24997"
+     inkscape:cy="917.74991"
+     inkscape:window-x="50"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:current-layer="g10"
      showguides="false"
@@ -1057,7 +1057,7 @@
      id="tspan4552"
      x="23.643394"
      y="-780.06775"
-     style="font-size:10px;line-height:1.25;fill:#5a5858;fill-opacity:1">Web Engineer</tspan></text>
+     style="font-size:10px;line-height:1.25;fill:#5a5858;fill-opacity:1">Senior Web Engineer / Team Lead</tspan></text>
 
 <text
    transform="scale(1,-1)"
@@ -1318,7 +1318,7 @@
      id="tspan6194"
      x="55.21236"
      y="-187.6322"
-     style="font-size:6px;line-height:1.25">PHP5/7, Javascript</tspan><tspan
+     style="font-size:6px;line-height:1.25">PHP8, Javascript, NodeJs</tspan><tspan
      sodipodi:role="line"
      id="tspan6196"
      x="55.21236"
@@ -1945,7 +1945,7 @@
      id="tspan6192"
      x="0"
      y="0"
-     style="font-size:6px;line-height:1.25">Ali Hichem © 2016.</tspan></text>
+     style="font-size:6px;line-height:1.25">Ali Hichem © 2022.</tspan></text>
 
 <text
    style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#5a5858;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2428,7 +2428,7 @@
      id="tspan6429"
      x="54.968433"
      y="-178.67986"
-     style="font-size:6px;line-height:1.25">Ruby, Python</tspan><tspan
+     style="font-size:6px;line-height:1.25">Linux, Docker</tspan><tspan
      sodipodi:role="line"
      id="tspan6431"
      x="54.968433"
@@ -2445,7 +2445,7 @@
      id="tspan6433"
      x="55.283745"
      y="-169.07979"
-     style="font-size:6px;line-height:1.25">AWS, PayPal</tspan></text>
+     style="font-size:6px;line-height:1.25">AWS, Serverless, Lambda, Bref</tspan></text>
 
 <text
    y="-159.47972"
@@ -2454,15 +2454,10 @@
    id="text674-8-7-4"
    transform="scale(1,-1)"><tspan
      sodipodi:role="line"
-     id="tspan6435"
-     x="55.283745"
-     y="-159.47972"
-     style="font-size:6px;line-height:1.25">Symfony 2/3/4</tspan><tspan
-     sodipodi:role="line"
      id="tspan6437"
      x="55.283745"
-     y="-151.97972"
-     style="font-size:6px;line-height:1.25"> </tspan></text>
+     y="-159.47972"
+     style="font-size:6px;line-height:1.25">Symfony Framework </tspan></text>
 
 <text
    y="-151.47969"
@@ -2474,7 +2469,7 @@
      id="tspan6439"
      x="55.283745"
      y="-151.47969"
-     style="font-size:6px;line-height:1.25">AngularJs 1, jQuery</tspan></text>
+     style="font-size:6px;line-height:1.25">Angular, jQuery, AngularJs</tspan></text>
 
 <text
    y="-141.87965"
@@ -2486,7 +2481,7 @@
      id="tspan4265"
      x="55.283745"
      y="-141.87965"
-     style="font-size:6px;line-height:1.25">NodeJs, Doctrine 2</tspan><tspan
+     style="font-size:6px;line-height:1.25">WebSockets</tspan><tspan
      sodipodi:role="line"
      id="tspan4267"
      x="55.283745"
@@ -2503,7 +2498,7 @@
      id="tspan6445"
      x="55.283745"
      y="-132.27959"
-     style="font-size:6px;line-height:1.25">Zend, Code Igniter</tspan><tspan
+     style="font-size:6px;line-height:1.25">Python </tspan><tspan
      sodipodi:role="line"
      id="tspan6447"
      x="55.283745"
@@ -2520,7 +2515,7 @@
      id="tspan6449"
      x="55.283745"
      y="-122.67954"
-     style="font-size:6px;line-height:1.25">Django, RoR</tspan><tspan
+     style="font-size:6px;line-height:1.25">ReactNative, Flutter, Pwapp</tspan><tspan
      sodipodi:role="line"
      id="tspan6451"
      x="55.283745"
@@ -2537,7 +2532,7 @@
      id="tspan6453"
      x="55.283745"
      y="-113.07953"
-     style="font-size:6px;line-height:1.25">MySQL, MongoDB</tspan><tspan
+     style="font-size:6px;line-height:1.25">MySQL, MongoDB, Elasticsearch</tspan><tspan
      sodipodi:role="line"
      id="tspan6455"
      x="55.283745"
@@ -2554,7 +2549,7 @@
      id="tspan6457"
      x="55.283745"
      y="-103.47948"
-     style="font-size:6px;line-height:1.25">SQL Server</tspan><tspan
+     style="font-size:6px;line-height:1.25">Doctrine ORM/ODM, Elastica</tspan><tspan
      sodipodi:role="line"
      id="tspan6459"
      x="55.283745"
@@ -2571,7 +2566,7 @@
      id="tspan6461"
      x="55.283745"
      y="-93.879456"
-     style="font-size:6px;line-height:1.25">Elastic Search</tspan><tspan
+     style="font-size:6px;line-height:1.25">Bitbucket pipelines</tspan><tspan
      sodipodi:role="line"
      id="tspan6463"
      x="55.283745"
@@ -2605,7 +2600,7 @@
      id="tspan4269"
      x="55.143406"
      y="-74.376961"
-     style="font-size:6px;line-height:1.25">Docker, Capistrano</tspan></text>
+     style="font-size:6px;line-height:1.25">SSR, Webpack, Git</tspan></text>
 
 <text
    y="-64.555443"
@@ -2617,7 +2612,7 @@
      id="tspan6635"
      x="55.147427"
      y="-64.555443"
-     style="font-size:6px;line-height:1.25">PHPUnit, Behat</tspan></text>
+     style="font-size:6px;line-height:1.25">PHPUnit, Behat, GhostInspector</tspan></text>
 
 <text
    y="-54.955406"
@@ -2629,7 +2624,7 @@
      id="tspan6637"
      x="55.147427"
      y="-54.955406"
-     style="font-size:6px;line-height:1.25">WebSocket</tspan><tspan
+     style="font-size:6px;line-height:1.25">Redis</tspan><tspan
      sodipodi:role="line"
      id="tspan6639"
      x="55.147427"
@@ -2899,19 +2894,19 @@
        height="214.41112"
        x="29.954494"
        y="151.36287"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1px" /></flowRegion><flowPara
      id="flowPara4437"
-     style="font-size:10px;line-height:1.25;font-family:sans-serif">       • Technical Consultant.</flowPara><flowPara
-     id="flowPara4439"
-     style="font-size:10px;line-height:1.25;font-family:sans-serif">       • Team leading and project management.</flowPara><flowPara
+     style="font-size:10px;line-height:1.25;font-family:sans-serif">       • Develop technical standards and provide resolution of complex system problems.</flowPara><flowPara
      id="flowPara4441"
-     style="font-size:10px;line-height:1.25;font-family:sans-serif">       • Applications technical design including development strategies, codedesign, technical choices.</flowPara><flowPara
-     id="flowPara4443"
-     style="font-size:10px;line-height:1.25;font-family:sans-serif">       • Application life cycle management including Agile and object-oriented software development methodologies.</flowPara><flowPara
+     style="font-size:10px;line-height:1.25;font-family:sans-serif" /><flowPara
+     style="font-size:10px;line-height:1.25;font-family:sans-serif"
+     id="flowPara31342" /><flowPara
      id="flowPara4445"
-     style="font-size:10px;line-height:1.25;font-family:sans-serif">       • Research and development (R&amp;D).</flowPara><flowPara
+     style="font-size:10px;line-height:1.25;font-family:sans-serif">       • Design and document technical solutions entire project.</flowPara><flowPara
+     style="font-size:10px;line-height:1.25;font-family:sans-serif"
+     id="flowPara31346">       • Amazon AWS expert with heavy experience in Serverless,  Lambda and WebSockets</flowPara><flowPara
      id="flowPara4447"
-     style="font-size:10px;line-height:1.25;font-family:sans-serif">       • Application developement including Cloud (Amazon AWS)/Comet programming.</flowPara><flowPara
+     style="font-size:10px;line-height:1.25;font-family:sans-serif">       • Confident team manager, leader and mentor over backend/frontend/Mobile/DevOps assignements.</flowPara><flowPara
      id="flowPara4449"
      style="font-size:10px;line-height:1.25;font-family:sans-serif"> </flowPara></flowRoot><flowRoot
    xml:space="preserve"
@@ -3051,7 +3046,7 @@
        y="748.66022"
        style="font-family:sans-serif" /></flowRegion><flowPara
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
-     id="flowPara7172">Technical Consulting, Team leading, Web engineering, Project management, Research and development.</flowPara></flowRoot><text
+     id="flowPara7172">Technical Consulting, Team leading, Web system design, Project management, Research and development.</flowPara></flowRoot><text
    y="-548.02264"
    x="116.43755"
    style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3087,7 +3082,7 @@
        y="748.66022"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
      id="flowPara4261"
-     style="font-size:8.75px;line-height:1.25;font-family:sans-serif">Docker, Serverless, Bref, PHP7, AWS, ElasticSearch, Angular, Node.js, Symfony 5, MongoDB, MySQL, </flowPara><flowPara
+     style="font-size:8.75px;line-height:1.25;font-family:sans-serif">Docker, Serverless, Bref, PHP8, AWS, ElasticSearch, Angular, Node.js, Symfony 5, MongoDB, MySQL, </flowPara><flowPara
      id="flowPara4263"
      style="font-size:8.75px;line-height:1.25;font-family:sans-serif">Linux, Git, Redis, REST API, WebSockets, SSR, WebPack, PHPUnit, GhostInspector, AWS lambda. </flowPara></flowRoot><text
    xml:space="preserve"
