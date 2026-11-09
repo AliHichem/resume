@@ -9,7 +9,7 @@
    width="744.09998"
    height="1052.3625"
    viewBox="0 0 744.09998 1052.3625"
-   sodipodi:docname="hichem ali.2026.svg"
+   sodipodi:docname="hichemali.svg"
    inkscape:export-filename="hichem ali.2026.pdf"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -504,13 +504,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="2560"
-     inkscape:window-height="1440"
+     inkscape:window-width="2550"
+     inkscape:window-height="1430"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="2.465079"
-     inkscape:cx="380.51519"
-     inkscape:cy="236.09791"
+     inkscape:cx="380.71802"
+     inkscape:cy="382.13785"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -582,27 +582,27 @@
    transform="scale(1,-1)"
    style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#5a5858;fill-opacity:1;fill-rule:nonzero;stroke:none"
    id="text492"
-   x="478.13684"
+   x="466.9368"
    y="-788.82153"><tspan
      sodipodi:role="line"
      id="tspan3954"
-     x="478.13684"
+     x="466.9368"
      y="-788.82153"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2f2f2f;fill-opacity:1">ali.hichem@mail.com</tspan><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2f2f2f;fill-opacity:1">hichem.ali.tn@gmail.com</tspan><tspan
      sodipodi:role="line"
      id="tspan3956"
-     x="478.13684"
+     x="466.9368"
      y="-778.82153"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5a5858;fill-opacity:1" /><tspan
      sodipodi:role="line"
      id="tspan3958"
-     x="478.13684"
-     y="-772.49591"
+     x="466.9368"
+     y="-772.59155"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5a5858;fill-opacity:1" /></text>
 
 <g
    id="g504"
-   transform="translate(151.59999,-16.399999)"><g
+   transform="translate(140.39999,-16.399999)"><g
      id="g506"
      clip-path="url(#clipPath508)"><g
        id="g512"
@@ -1311,7 +1311,7 @@
    id="g600-6" /><use
    id="use24617"
    xlink:href="#envelope"
-   transform="matrix(0.08018613,0,0,-0.08018613,465.29615,795.09382)"
+   transform="matrix(0.08018613,0,0,-0.08018613,454.09615,795.09382)"
    x="0"
    y="0"
    width="100%"
@@ -1319,7 +1319,7 @@
    style="fill:#0569e9;fill-opacity:0.619608" /><use
    id="use24680"
    xlink:href="#phone"
-   transform="matrix(0.08562472,0,0,-0.08562472,465.58581,783.62767)"
+   transform="matrix(0.08562472,0,0,-0.08562472,454.38581,783.62767)"
    x="0"
    y="0"
    width="100%"
@@ -1533,7 +1533,7 @@
    xml:space="preserve"
    id="flowRoot4392-2"
    style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0.01%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   transform="matrix(0.8,0,0,-0.8,234.17874,829.01583)"><flowRegion
+   transform="matrix(0.8,0,0,-0.8,222.97874,829.01583)"><flowRegion
      id="flowRegion4394-7"><rect
        id="rect4396-1"
        width="50.843815"
@@ -1696,9 +1696,9 @@
    xml:space="preserve"><tspan
      x="313.74753"
      y="-178.14803"
-     id="tspan62"><tspan
+     id="tspan2"><tspan
        style="font-weight:normal;font-size:8px;line-height:1.25;-inkscape-font-specification:Ubuntu"
-       id="tspan61">Personal:
+       id="tspan1">Personal:
 </tspan></tspan></text>
 
 <flowRoot
@@ -1726,14 +1726,14 @@
    style="fill:#0569e9;fill-opacity:0.619608" /><a
    id="a2"
    xlink:href="https://alihichem.github.io/"
-   transform="translate(9.6,-9.6)"><use
+   transform="translate(-1.6,-9.6)"><use
      xlink:href="#globe"
      style="fill:#0569e9;fill-opacity:0.619608"
      id="use1"
      transform="matrix(0.08906257,0,0,-0.08906257,455.77995,781.98001)" /></a><a
    id="a1"
    xlink:href="https://alihichem.github.io/"
-   transform="translate(11.2,-10.6)"><text
+   transform="translate(0,-10.6)"><text
      transform="scale(1,-1)"
      style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#5a5858;fill-opacity:1;fill-rule:nonzero;stroke:none"
      id="text492-6"
@@ -1757,21 +1757,21 @@
    transform="scale(1,-1)"
    style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#5a5858;fill-opacity:1;fill-rule:nonzero;stroke:none"
    id="text492-5"
-   x="476.44916"
+   x="465.24911"
    y="-777.8963"><tspan
      sodipodi:role="line"
      id="tspan3954-4"
-     x="476.44916"
+     x="465.24911"
      y="-777.8963"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2d2d2d;fill-opacity:1">+216 98 94 43 91</tspan><tspan
      sodipodi:role="line"
      id="tspan3956-3"
-     x="476.44916"
+     x="465.24911"
      y="-767.8963"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5a5858;fill-opacity:1" /><tspan
      sodipodi:role="line"
      id="tspan3958-2"
-     x="476.44916"
+     x="465.24911"
      y="-761.66632"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5a5858;fill-opacity:1" /></text><text
    xml:space="preserve"
@@ -1788,66 +1788,66 @@
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.53334px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect8);display:inline;fill:#000000"><tspan
      x="170.38086"
      y="357.23657"
-     id="tspan63">Decentralized Finance (Web3) Infrastructure: Architected and deployed production EVM smart contracts (ERC-20, staking, </tspan><tspan
+     id="tspan3">Decentralized Finance (Web3) Infrastructure: Architected and deployed production EVM smart contracts (ERC-20, staking, </tspan><tspan
      x="170.38086"
      y="367.90326"
-     id="tspan64">pool management) using Solidity, Foundry, and OpenZeppelin; built real-time off-chain indexing pipelines and responsive </tspan><tspan
+     id="tspan4">pool management) using Solidity, Foundry, and OpenZeppelin; built real-time off-chain indexing pipelines and responsive </tspan><tspan
      x="170.38086"
      y="378.56994"
-     id="tspan65">dApp interfaces using Wagmi, Viem, and Next.js.
+     id="tspan5">dApp interfaces using Wagmi, Viem, and Next.js.
 </tspan><tspan
      x="170.38086"
      y="389.23663"
-     id="tspan66">
+     id="tspan6">
 </tspan><tspan
      x="170.38086"
      y="399.90332"
-     id="tspan67">Serverless Cloud Architecture &amp; Modernization: Migrated high-traffic legacy monolithic backends to AWS Lambda and Bref </tspan><tspan
+     id="tspan7">Serverless Cloud Architecture &amp; Modernization: Migrated high-traffic legacy monolithic backends to AWS Lambda and Bref </tspan><tspan
      x="170.38086"
      y="410.57001"
-     id="tspan68">(PHP/Node.js), cutting compute infrastructure costs by ~35% while achieving autoscaling reliability for peak traffic.
+     id="tspan8">(PHP/Node.js), cutting compute infrastructure costs by ~35% while achieving autoscaling reliability for peak traffic.
 </tspan><tspan
      x="170.38086"
      y="421.23669"
-     id="tspan69">
+     id="tspan9">
 </tspan><tspan
      x="170.38086"
      y="431.90338"
-     id="tspan70">Real-time Web Platforms &amp; API Systems: Designed distributed RESTful and WebSocket systems utilizing Mercure, Redis, and </tspan><tspan
+     id="tspan10">Real-time Web Platforms &amp; API Systems: Designed distributed RESTful and WebSocket systems utilizing Mercure, Redis, and </tspan><tspan
      x="170.38086"
      y="442.57007"
-     id="tspan71">MongoDB/PostgreSQL, optimizing query bottlenecks and reducing average API response latency under concurrent loads.
+     id="tspan11">MongoDB/PostgreSQL, optimizing query bottlenecks and reducing average API response latency under concurrent loads.
 </tspan><tspan
      x="170.38086"
      y="453.23675"
-     id="tspan72">
+     id="tspan12">
 </tspan><tspan
      x="170.38086"
      y="463.90344"
-     id="tspan73">DevOps &amp; CI/CD Automation: Standardized Docker-based containerized environments and GitHub Actions deployment </tspan><tspan
+     id="tspan13">DevOps &amp; CI/CD Automation: Standardized Docker-based containerized environments and GitHub Actions deployment </tspan><tspan
      x="170.38086"
      y="474.57013"
-     id="tspan74">pipelines across multi-client repositories, reducing release cycles from days to minutes.</tspan></text><text
+     id="tspan14">pipelines across multi-client repositories, reducing release cycles from days to minutes.</tspan></text><text
    xml:space="preserve"
    transform="matrix(0.8,0,0,-0.8,0.97359962,800.54654)"
    id="text9"
    style="font-size:8.66667px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect9);display:inline;fill:#000000"><tspan
      x="175.24805"
      y="513.75082"
-     id="tspan75">Developed scalable internal architecture tools, automated deployment scripts, and engineered comprehensive unit/</tspan><tspan
+     id="tspan15">Developed scalable internal architecture tools, automated deployment scripts, and engineered comprehensive unit/</tspan><tspan
      x="175.24805"
      y="524.58414"
-     id="tspan76">functional test suites using PHP, Symfony, and PHPUnit to improve release stability</tspan></text><text
+     id="tspan17">functional test suites using PHP, Symfony, and PHPUnit to improve release stability</tspan></text><text
    xml:space="preserve"
    transform="matrix(0.8,0,0,-0.8,0,805.09)"
    id="text10"
    style="font-size:8.66667px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect10);display:inline;fill:#000000"><tspan
      x="176.87109"
      y="584.33676"
-     id="tspan77">Led technical architecture and end-to-end delivery of client web platforms using PHP, Symfony, and MySQL, </tspan><tspan
+     id="tspan18">Led technical architecture and end-to-end delivery of client web platforms using PHP, Symfony, and MySQL, </tspan><tspan
      x="176.87109"
      y="595.17007"
-     id="tspan78">mentoring junior developers in clean architecture standards.</tspan></text><text
+     id="tspan19">mentoring junior developers in clean architecture standards.</tspan></text><text
    xml:space="preserve"
    transform="matrix(0.8,0,0,-0.8,0,841.89)"
    id="text11"
@@ -1862,29 +1862,29 @@
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.66667px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect13);display:inline;fill:#000000"><tspan
      x="53.548828"
      y="158.98981"
-     id="tspan79">
+     id="tspan20">
 </tspan><tspan
      x="53.548828"
      y="169.82315"
-     id="tspan80">Senior Backend &amp; Web3 Engineer with 15+ years of experience architecting </tspan><tspan
+     id="tspan21">Senior Backend &amp; Web3 Engineer with 15+ years of experience architecting </tspan><tspan
      x="53.548828"
      y="180.65649"
-     id="tspan81">resilient, high-throughput cloud platforms, event-driven microservices, and </tspan><tspan
+     id="tspan22">resilient, high-throughput cloud platforms, event-driven microservices, and </tspan><tspan
      x="53.548828"
      y="191.48984"
-     id="tspan82">EVM smart contract systems. Proven technical lead skilled in full lifecycle </tspan><tspan
+     id="tspan23">EVM smart contract systems. Proven technical lead skilled in full lifecycle </tspan><tspan
      x="53.548828"
      y="202.32318"
-     id="tspan83">delivery across distributed backend architectures (TypeScript / Node.js, Rust, </tspan><tspan
+     id="tspan24">delivery across distributed backend architectures (TypeScript / Node.js, Rust, </tspan><tspan
      x="53.548828"
      y="213.15652"
-     id="tspan84">PHP/Bref), serverless AWS cloud infrastructure, and low-latency Web3 data </tspan><tspan
+     id="tspan25">PHP/Bref), serverless AWS cloud infrastructure, and low-latency Web3 data </tspan><tspan
      x="53.548828"
      y="223.98987"
-     id="tspan85">pipelines. Focused on clean system design, production safety, and high-</tspan><tspan
+     id="tspan26">pipelines. Focused on clean system design, production safety, and high-</tspan><tspan
      x="53.548828"
      y="234.82321"
-     id="tspan86">velocity AI-assisted engineering workflows.</tspan></text><text
+     id="tspan27">velocity AI-assisted engineering workflows.</tspan></text><text
    xml:space="preserve"
    transform="matrix(0.8,0,0,-0.8,0,841.89)"
    id="text17"
@@ -1895,69 +1895,69 @@
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.66667px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect34);display:inline;fill:#000000"><tspan
      x="59.226562"
      y="796.29254"
-     id="tspan87">TypeScript, JavaScript, Node.js
+     id="tspan28">TypeScript, JavaScript, Node.js
 </tspan><tspan
      x="59.226562"
      y="807.12585"
-     id="tspan89">Rust <tspan
+     id="tspan30">Rust <tspan
    style="font-weight:300;font-size:8px;-inkscape-font-specification:'Ubuntu Light'"
-   id="tspan88">(Tokio, Serde, Axum, Clap, Alloy)</tspan>
+   id="tspan29">(Tokio, Serde, Axum, Clap, Alloy)</tspan>
 </tspan><tspan
      x="59.226562"
      y="817.95917"
-     id="tspan90">Concurrency &amp; IPC
+     id="tspan31">Concurrency &amp; IPC
 </tspan><tspan
      x="59.226562"
      y="828.79248"
-     id="tspan91">Solidity, Foundry, OpenZeppelin
+     id="tspan32">Solidity, Foundry, OpenZeppelin
 </tspan><tspan
      x="59.226562"
      y="839.62579"
-     id="tspan92">Viem, Ethers.js
+     id="tspan33">Viem, Ethers.js
 </tspan><tspan
      x="59.226562"
      y="850.4591"
-     id="tspan93">PHP, Symfony, Bref
+     id="tspan34">PHP, Symfony, Bref
 </tspan><tspan
      x="59.226562"
      y="861.29242"
-     id="tspan94">React, Next.js, Vue.js, RxJS
+     id="tspan35">React, Next.js, Vue.js, RxJS
 </tspan><tspan
      x="59.226562"
      y="872.12573"
-     id="tspan95">REST APIs, WebSockets, Mercure
+     id="tspan36">REST APIs, WebSockets, Mercure
 </tspan><tspan
      x="59.226562"
      y="882.95904"
-     id="tspan96">AWS, Serverless
+     id="tspan37">AWS, Serverless
 </tspan><tspan
      x="59.226562"
      y="893.79236"
-     id="tspan97">Linux (Arch/Debian)
+     id="tspan38">Linux (Arch/Debian)
 </tspan><tspan
      x="59.226562"
      y="904.62567"
-     id="tspan98">Docker, Testcontainers
+     id="tspan39">Docker, Testcontainers
 </tspan><tspan
      x="59.226562"
      y="915.45898"
-     id="tspan99">GitHub Actions, CI/CD pipelines
+     id="tspan40">GitHub Actions, CI/CD pipelines
 </tspan><tspan
      x="59.226562"
      y="926.2923"
-     id="tspan100">PostgreSQL, InfluxDB, MySQL
+     id="tspan41">PostgreSQL, InfluxDB, MySQL
 </tspan><tspan
      x="59.226562"
      y="937.12561"
-     id="tspan101">MongoDB, Redis
+     id="tspan42">MongoDB, Redis
 </tspan><tspan
      x="59.226562"
      y="947.95892"
-     id="tspan102">Elasticsearch
+     id="tspan43">Elasticsearch
 </tspan><tspan
      x="59.226562"
      y="958.79223"
-     id="tspan103">Jest, Chai, Mocha, Sinon
+     id="tspan44">Jest, Chai, Mocha, Sinon
 </tspan></text><text
    xml:space="preserve"
    transform="matrix(0.78376388,0,0,-0.76854258,35.379955,817.00382)"
@@ -1965,65 +1965,65 @@
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.66667px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect35);display:inline;fill:#000000"><tspan
      x="207.70117"
      y="796.69684"
-     id="tspan104">● ● ● ● ● ● ● ● ● ○
+     id="tspan45">● ● ● ● ● ● ● ● ● ○
 </tspan><tspan
      x="207.70117"
      y="807.94378"
-     id="tspan105">● ● ● ● ● ○ ○ ○ ○ ○
+     id="tspan46">● ● ● ● ● ○ ○ ○ ○ ○
 </tspan><tspan
      x="207.70117"
      y="819.19073"
-     id="tspan106">● ● ● ● ● ● ● ● ○ ○
+     id="tspan47">● ● ● ● ● ● ● ● ○ ○
 </tspan><tspan
      x="207.70117"
      y="830.43768"
-     id="tspan107">● ● ● ● ● ● ● ● ○ ○
+     id="tspan48">● ● ● ● ● ● ● ● ○ ○
 </tspan><tspan
      x="207.70117"
      y="841.68463"
-     id="tspan108">● ● ● ● ● ● ● ● ● ○
+     id="tspan49">● ● ● ● ● ● ● ● ● ○
 </tspan><tspan
      x="207.70117"
      y="852.93158"
-     id="tspan109">● ● ● ● ● ● ● ○ ○ ○
+     id="tspan50">● ● ● ● ● ● ● ○ ○ ○
 </tspan><tspan
      x="207.70117"
      y="864.17853"
-     id="tspan110">● ● ● ● ● ● ○ ○ ○ ○
+     id="tspan51">● ● ● ● ● ● ○ ○ ○ ○
 </tspan><tspan
      x="207.70117"
      y="875.42547"
-     id="tspan111">● ● ● ● ● ● ● ● ● ○
+     id="tspan52">● ● ● ● ● ● ● ● ● ○
 </tspan><tspan
      x="207.70117"
      y="886.67242"
-     id="tspan112">● ● ● ● ● ● ● ○ ○ ○
+     id="tspan53">● ● ● ● ● ● ● ○ ○ ○
 </tspan><tspan
      x="207.70117"
      y="897.91937"
-     id="tspan113">● ● ● ● ● ● ○ ○ ○ ○
+     id="tspan54">● ● ● ● ● ● ○ ○ ○ ○
 </tspan><tspan
      x="207.70117"
      y="909.16632"
-     id="tspan114">● ● ● ● ● ● ● ● ○ ○
+     id="tspan55">● ● ● ● ● ● ● ● ○ ○
 </tspan><tspan
      x="207.70117"
      y="920.41327"
-     id="tspan115">● ● ● ● ● ● ○ ○ ○ ○
+     id="tspan56">● ● ● ● ● ● ○ ○ ○ ○
 </tspan><tspan
      x="207.70117"
      y="931.66022"
-     id="tspan116">● ● ● ● ● ● ● ○ ○
+     id="tspan57">● ● ● ● ● ● ● ○ ○
 </tspan><tspan
      x="207.70117"
      y="942.90716"
-     id="tspan117">● ● ● ● ● ● ● ● ○ ○
+     id="tspan58">● ● ● ● ● ● ● ● ○ ○
 </tspan><tspan
      x="207.70117"
      y="954.15411"
-     id="tspan118">● ● ● ● ● ● ● ○ ○ ○
+     id="tspan59">● ● ● ● ● ● ● ○ ○ ○
 </tspan><tspan
      x="207.70117"
      y="965.40106"
-     id="tspan119">● ● ● ● ● ● ● ● ○ ○
+     id="tspan60">● ● ● ● ● ● ● ● ○ ○
 </tspan></text></g></svg>
